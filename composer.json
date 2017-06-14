@@ -1,0 +1,11 @@
+{
+  "name"  : "kings/coap-protocol",
+  "keywords": ["distributed"],
+  "homepage": "http://www.limx.cn",
+  "license" : "MIT",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {"CoapProtocol\\":  "./"}
+  }
+}
